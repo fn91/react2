@@ -1,0 +1,50 @@
+.header-container ul {
+    list-style:none;
+    display: flex;
+    padding:5px;
+        
+    
+    }
+    
+    .footer{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 5px;
+    
+    }
+    
+    .footer-content{
+        margin: 0 15px;
+        cursor: pointer;
+        text-transform: uppercase;
+    
+    }
+    
+ 
+    
+    
+    .footer-section{
+    
+        width: 100%;
+        border: none;
+        padding: 10px 15px;
+        border-radius: 20 px;
+        cursor: pointer;
+        margin-right: 20 px;
+        margin-left: 5 px;
+    
+    }
+
+    .footer-bottom {
+
+        width: 100%;
+        border: none;
+        padding: 10px 15px;
+        border-radius: 20 px;
+        cursor: pointer;
+        margin-right: 20 px;
+        margin-left: 5 px;
+        padding:center ;
+
+
+    }
